@@ -60,15 +60,6 @@ def interactivePage(username):
 
 
 
-        # schedule = ''
-        # schedule += 'Your schedule for the day is as follows: Starting at ' + locations[0] + ', '
-        # for i in range(1, locations):
-        #     schedule += modes[i] + ' to ' + locations[i] + ', '
-        # schedule += 'etc.'
-
-        # print(locations_string)
-        # print(modes_string)
-
 
         #print(schedule)
         if len(modes)==0 or len(locations)==0:
